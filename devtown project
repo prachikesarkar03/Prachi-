@@ -1,0 +1,81 @@
+<html>
+  <head>
+    <title>Web page 1</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="container">
+    <div class="left">
+      <img
+        class="profile"
+        src="https://media.istockphoto.com/photos/millennial-male-team-leader-organize-virtual-workshop-with-employees-picture-id1300972574?b=1&k=20&m=1300972574&s=170667a&w=0&h=2nBGC7tr0kWIU8zRQ3dMg-C5JLo9H2sNUuDjQ5mlYfo="
+        alt="Profile Image"
+      />
+      <h1 class="name">Aditya Gusain</h1>
+      <p class="bio">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis
+        provident odio ad labore optio nesciunt fuga quaerat adipisci libero.
+        Quo nulla odit minima sint corrupti beatae distinctio sed incidunt
+        aperiam.
+      </p>
+      <button class="connect-button">Let's Connect</button>
+    </div>
+    <div class="right">
+      <div class="nav-container">
+        <h3>Devtown</h3>
+        <div class="nav">
+          <a href="#">Home</a>
+          <a href="#contact">Contact</a>
+          <a href="#">About</a>
+        </div>
+      </div>
+      <p class="content">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae
+        eligendi voluptatibus recusandae cumque accusantium tempore eveniet
+        doloremque dolor veniam ad quae qui magnam iusto minima molestias earum,
+        tempora officia ipsum. Lorem, ipsum dolor sit amet consectetur
+        adipisicing elit. Debitis itaque vero qui incidunt aspernatur maiores
+        harum ad culpa animi explicabo ex eius, nisi nostrum dicta consequatur,
+        dolore iusto temporibus perspiciatis.
+        <br />
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quam
+        nesciunt, dolor itaque, at pariatur reiciendis molestias nam blanditiis
+        corrupti aperiam voluptatum animi deserunt quo iste esse nemo sit
+        tenetur. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Repudiandae eligendi voluptatibus recusandae cumque accusantium tempore
+        eveniet doloremque dolor veniam ad quae qui magnam iusto minima
+        molestias earum, tempora officia ipsum. Lorem, ipsum dolor sit amet
+        consectetur adipisicing elit. Debitis itaque vero qui incidunt
+        aspernatur maiores harum ad culpa animi explicabo ex eius, nisi nostrum
+        dicta consequatur, dolore iusto temporibus perspiciatis.
+        <br />
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quam
+        nesciunt, dolor itaque, at pariatur reiciendis molestias nam blanditiis
+        corrupti aperiam voluptatum animi deserunt quo iste esse nemo sit
+        tenetur. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Repudiandae eligendi voluptatibus recusandae cumque accusantium tempore
+        eveniet doloremque dolor veniam ad quae qui magnam iusto minima
+        molestias earum, tempora officia ipsum. Lorem, ipsum dolor sit amet
+        consectetur adipisicing elit. Debitis itaque vero qui incidunt
+        aspernatur maiores harum ad culpa animi explicabo ex eius, nisi nostrum
+        dicta consequatur, dolore iusto temporibus perspiciatis.
+        <br />
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quam
+        nesciunt, dolor itaque, at pariatur reiciendis molestias nam blanditiis
+        corrupti aperiam voluptatum animi deserunt quo iste esse nemo sit
+        tenetur. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Repudiandae eligendi voluptatibus recusandae cumque accusantium tempore
+        eveniet doloremque dolor veniam ad quae qui magnam iusto minima
+        molestias earum, tempora officia ipsum. Lorem, ipsum dolor sit amet
+        consectetur adipisicing elit. Debitis itaque vero qui incidunt
+        aspernatur maiores harum ad culpa animi explicabo ex eius, nisi nostrum
+        dicta consequatur, dolore iusto temporibus perspiciatis.
+        <br />
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quam
+        nesciunt, dolor itaque, at pariatur reiciendis molestias nam blanditiis
+        corrupti aperiam voluptatum animi deserunt quo iste esse nemo sit
+        tenetur.
+      </p>
+      <h1 id="contact">Contact</h1>
+    </div>
+  </body>
+</html>
